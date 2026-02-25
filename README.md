@@ -62,7 +62,7 @@ If you find a problem in this chapter’s code (typo, bug, or mismatch with the 
 
 `dbzero2.py`: A script that sometimes raises a divide-by-zero runtime error.
 
-`dbzero3.[py,c]: Code that illustrates the difference between interpretation and compilation.
+`dbzero3.[py,c]`: Code that illustrates the difference between interpretation and compilation.
 
 `dyntype.py`: A simple example of dynamic typing and how easy it is to not know statically the type of the object in a name.
 
